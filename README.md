@@ -48,3 +48,56 @@
 ## 作者
 
 [daigorou-addon](https://github.com/daigorou-addon)
+
+---
+
+# FloorPlanStudio (English)
+
+A Windows app for creating floor plans by placing rooms, furniture, doors and windows.
+With one click, you can also switch to a 3D-perspective-style "anime" view.
+
+## Samples
+
+| Anime style | Simple |
+|:---:|:---:|
+| ![Anime style](images/sample-anime.png) | ![Simple](images/sample-simple.png) |
+
+## Download
+
+Download the latest `FloorPlanStudio.Setup.x.x.x.exe` from [Releases](https://github.com/daigorou-addon/FloorPlanStudio/releases) and run it.
+
+## Features
+
+- **Place rooms, fixtures, furniture, doors and windows by dragging**
+  - Rooms: Western-style room, Japanese-style room, bedroom, bathroom, toilet, entrance, hallway, balcony, and more
+  - Fixtures and furniture: kitchen, refrigerator, washing machine, bathtub, beds, sofa, tables, and more
+  - Doors and windows: hinged doors, sliding doors, folding doors, sliding windows, floor-to-ceiling windows, bay windows, and more
+  - Straight stairs, L-shaped stairs, spiral stairs, loft ladder, open-to-below voids
+  - Exterior elements such as front road, parking, garden, fence and gate, plus a compass symbol and text
+- **Doors and windows snap to walls**. Window length can be changed with the ■ handles at both ends
+- **Cut room corners diagonally** (drag the ○ at the corner)
+- **Multiple floors** (add and delete floors)
+- **Three display modes**: Simple / Detailed / Anime style
+- Adjust wall thickness, text size, area display, show/hide names, and floor colors
+- Zoom and pan, undo (Ctrl+Z) / redo (Ctrl+Y)
+- Light / dark theme
+- Sample plan
+- Your work is saved automatically in the app
+
+The grid is 455 mm per square (bold lines = 910 mm).
+
+## Saving and Export
+
+| Item | Details |
+|------|---------|
+| Save / Open | Saved and loaded as `.floorplan` files |
+| Image export | PNG |
+| Print | Supported |
+
+## Supported Languages
+
+日本語 / English / 简体中文 / 繁體中文 / 한국어 / Español
+
+## Author
+
+[daigorou-addon](https://github.com/daigorou-addon)
